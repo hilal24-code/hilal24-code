@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Hilal from ID<br><br>- 🔭 I’m working as Software Daveloper<br>- 📚 I'm currently learning Ai<br>- ⚡ In my free time I Drawing and reading book</p>
+<p data-importer="text" align="left">I'm Hilal from ID doing vibe coding<br><br>- 🔭 I’m working as Software Daveloper<br>- 📚 I'm currently learning Ai<br>- ⚡ In my free time I Drawing and reading book</p>
 
 ###
 
